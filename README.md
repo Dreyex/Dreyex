@@ -1,6 +1,6 @@
 # :rainbow_flag: :sparkles: A little introduction ^u^ :sparkles: :rainbow_flag: #
 
-Personal Stats
+:bust_in_silhouette: Personal Stats :bust_in_silhouette:
 ---
 - :hourglass: Age: 19
 - :triangular_ruler: Education: High-School Diploma
@@ -12,7 +12,9 @@ Personal Stats
   - Gaming: :joystick: --> Favorite Games:sparkling_heart:: Metro, Half Life, Titanfall, Scorn
   - Coding :floppy_disk:
   - Learning :books:
-  - Music: :musical_note:
+  - Music :musical_note:
+  - Japan :shinto_shrine:
+  - Cybernetics 
   - Fantasy Stuff: Magic, Cyberpunk, Steampunk
 
 ### Social Media ###
