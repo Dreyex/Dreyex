@@ -19,8 +19,11 @@
   - Fantasy Stuff :space_invader:: Magic, Cyberpunk, Steampunk
 
 ### Social Media ###
-![GitHub Dreyex](https://img.shields.io/github/followers/Dreyex?label=follow&style=social) 
-[![Instagram: Dreyex](https://img.shields.io/badge/-Dreyex-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dreyex/?hl=de)](https://www.instagram.com/dreyex/?hl=de)
+[Github](https://github.com/Dreyex)
+[Twitter](https://twitter.com/hashtag/dreyex?src=hash&ref_src=twsrc%5Etfw)
+[Instagram](https://www.instagram.com/dreyex/?hl=de)
+[Reddit](https://www.reddit.com/user/Dreyex/)
+[Tellonym](https://tellonym.me/dreyex)
 
 
 :hammer_and_wrench: Current Work :hammer_and_wrench:
