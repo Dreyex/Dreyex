@@ -18,6 +18,7 @@
   - Fantasy Stuff: Magic, Cyberpunk, Steampunk
 
 ### Social Media ###
+![GitHub Dreyex](https://img.shields.io/github/followers/Dreyex?label=follow&style=social) 
 [![Instagram: Dreyex](https://img.shields.io/badge/-Dreyex-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dreyex/?hl=de)](https://www.instagram.com/dreyex/?hl=de)
 
 Current Work
