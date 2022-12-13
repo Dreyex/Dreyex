@@ -42,6 +42,8 @@
 
 :octocat: Stats :octocat:
 ---
+<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=Dreyex&show_icons=true&theme=tokyonight">  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=Dreyex&langs_count=5&layout=compact&theme=tokyonight">
+
 
 <!---
 Dreyex/Dreyex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
