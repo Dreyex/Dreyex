@@ -1,9 +1,14 @@
-# A little introduction ^u^
+# :sparkles: A little introduction ^u^ :sparkles:
 
-- 👋 Hi, I’m @Dreyex
-- 👀 I’m interested in ... Coding (especially C#), Cyberpunk, Steampunk, Fantasy, Gaming, Music
-- 🌱 I’m currently learning ... Trainee for Computer-Science of Application Development in Potsdam, Germany
-- 📫 How to reach me ... Instagram: dreyex | Twitter: Dreyex | Tellonym: Dreyex | Reddit: Dreyex | Disord: Dreyex
+Personal Stats
+---
+- :hourglass: Age: 19
+- Education: High-School Diploma
+- :office: Work Status: Trainee in Computer Science for Sofware Development
+- :world_map: Location: Potsdam, Germany 
+- :hamburger: Favorite food: Burger
+
+
 
 <!---
 Dreyex/Dreyex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
