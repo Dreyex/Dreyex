@@ -36,6 +36,8 @@
 - ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 - ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 - ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+- ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=CSharp)
+- ![Dotnet](https://img.shields.io/badge/-Dotnet-black?style=flat-square&logo=Dotnet)
 
 
 :octocat: Stats :octocat:
