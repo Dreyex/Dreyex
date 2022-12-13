@@ -14,23 +14,25 @@
   - Learning :books:
   - Music :musical_note:
   - Japan :shinto_shrine:
-  - Cybernetics 
-  - Fantasy Stuff: Magic, Cyberpunk, Steampunk
+  - Cybernetics :mechanical_arm: :mechanical_leg:
+  - Space :flying_saucer:
+  - Fantasy Stuff :space_invader:: Magic, Cyberpunk, Steampunk
 
 ### Social Media ###
 ![GitHub Dreyex](https://img.shields.io/github/followers/Dreyex?label=follow&style=social) 
 [![Instagram: Dreyex](https://img.shields.io/badge/-Dreyex-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dreyex/?hl=de)](https://www.instagram.com/dreyex/?hl=de)
 
-Current Work
+
+:hammer_and_wrench: Current Work :hammer_and_wrench:
 ---
 - I'm working on an Console Arcade in C# inspired by [LeonKohli](https://github.com/LeonKohli/LeonKohli)
 - Trying to learn C#
 - Trying to learn how to code a game
 
-Software and Tools
+:toolbox: :gear: Software and Tools :gear: :toolbox:
 ---
 
-Stats
+:octocat: Stats :octocat:
 ---
 
 <!---
