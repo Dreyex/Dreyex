@@ -31,6 +31,12 @@
 
 :toolbox: :gear: Software and Tools :gear: :toolbox:
 ---
+- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+- ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
 
 :octocat: Stats :octocat:
 ---
