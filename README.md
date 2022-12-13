@@ -12,17 +12,17 @@
   - Gaming: :joystick: --> Favorite Games:sparkling_heart:: Metro, Half Life, Titanfall, Scorn
   - Coding :floppy_disk:
   - Learning :books:
-  - Music :musical_note:
+  - Music :musical_note: [My Spotify](https://open.spotify.com/user/kuw0kbogot8n5btitqvnqv1cj)
   - Japan :shinto_shrine:
   - Cybernetics :mechanical_arm: :mechanical_leg:
   - Space :flying_saucer:
   - Fantasy Stuff :space_invader:: Magic, Cyberpunk, Steampunk
 
 ### Social Media ###
-[Github](https://github.com/Dreyex)
-[Twitter](https://twitter.com/hashtag/dreyex?src=hash&ref_src=twsrc%5Etfw)
-[Instagram](https://www.instagram.com/dreyex/?hl=de)
-[Reddit](https://www.reddit.com/user/Dreyex/)
+[Github](https://github.com/Dreyex) | 
+[Twitter](https://twitter.com/hashtag/dreyex?src=hash&ref_src=twsrc%5Etfw) | 
+[Instagram](https://www.instagram.com/dreyex/?hl=de) | 
+[Reddit](https://www.reddit.com/user/Dreyex/) | 
 [Tellonym](https://tellonym.me/dreyex)
 
 
