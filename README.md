@@ -26,7 +26,7 @@
 [Tellonym](https://tellonym.me/dreyex)
 
 
-:hammer_and_wrench: Current Work :hammer_and_wrench:
+:hammer_and_wrench: Current Projects/Goals :hammer_and_wrench:
 ---
 - I'm working on an Console Arcade in C# inspired by [LeonKohli](https://github.com/LeonKohli/LeonKohli)
 - Trying to learn C#
