@@ -50,7 +50,8 @@
 
 :octocat: Stats :octocat:
 ---
-<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=Dreyex&show_icons=true&theme=tokyonight">  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=Dreyex&langs_count=5&layout=compact&theme=tokyonight">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyex&show_icons=true&theme=radical&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyex&layout=donut)](https://github.com/Dreyex/github-readme-stats)
 
 
 <!---
