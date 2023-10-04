@@ -28,19 +28,24 @@
 
 :hammer_and_wrench: Current Projects/Goals :hammer_and_wrench:
 ---
-- I'm working on an Console Arcade in C# inspired by [LeonKohli](https://github.com/LeonKohli/LeonKohli)
-- Trying to learn C#
-- Trying to learn how to code a game
+- Trying to learn C# and JavaScript
+- Successfully complete my training
 
 :toolbox: :gear: Software and Tools :gear: :toolbox:
 ---
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 - ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+- ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
 - ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-- ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+- ![VisualStudio](https://img.shields.io/badge/VisualStudio-black?logo=visualstudio)
+- ![Java](https://img.shields.io/badge/Java-black?logo=eclipseide)
 - ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=CSharp)
 - ![Dotnet](https://img.shields.io/badge/-Dotnet-black?style=flat-square&logo=Dotnet)
+- ![ASP](https://img.shields.io/badge/ASP.NET-black?logo=dotnet)
+- ![Blazor](https://img.shields.io/badge/Blazor-black?logo=blazor)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)
+- ![ChatGPT](https://img.shields.io/badge/ChatGPT-black?logo=openai)
 
 
 :octocat: Stats :octocat:
