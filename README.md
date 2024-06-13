@@ -6,7 +6,7 @@
 - :triangular_ruler: Education: High-School Diploma
 - :office: Work Status: Trainee in Computer Science for Sofware Development
 - :world_map: Location: Potsdam, Germany 
-- :hamburger: Favorite food: Burger
+- :hamburger: Favorite food: Burger, Pizza
 - :bulb: Interests: 
   - Cryptocurrencys :coin:
   - Gaming: :joystick: --> Favorite Games:sparkling_heart:: Metro, Half Life, Titanfall, Scorn
