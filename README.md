@@ -2,7 +2,7 @@
 
 :bust_in_silhouette: Personal Stats :bust_in_silhouette:
 ---
-- :hourglass: Age: 19
+- :hourglass: Age: 20
 - :triangular_ruler: Education: High-School Diploma
 - :office: Work Status: Trainee in Computer Science for Sofware Development
 - :world_map: Location: Potsdam, Germany 
@@ -10,7 +10,7 @@
 - :bulb: Interests: 
   - Cryptocurrencys :coin:
   - Gaming: :joystick: --> Favorite Games:sparkling_heart:: Metro, Half Life, Titanfall, Scorn
-  - Coding :floppy_disk:
+  - Coding :floppy_disk: (Especially: Web-Development)
   - Learning :books:
   - Music :musical_note: [My Spotify](https://open.spotify.com/user/kuw0kbogot8n5btitqvnqv1cj)
   - Japan :shinto_shrine:
@@ -28,7 +28,8 @@
 
 :hammer_and_wrench: Current Projects/Goals :hammer_and_wrench:
 ---
-- Trying to learn C# and JavaScript
+- Trying to learn JavaScript and WebDevelopment
+- Creating Designs and Pictures
 - Successfully complete my training
 
 :toolbox: :gear: Software and Tools :gear: :toolbox:
@@ -38,14 +39,13 @@
 - ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 - ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
 - ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-- ![VisualStudio](https://img.shields.io/badge/VisualStudio-black?logo=visualstudio)
-- ![Java](https://img.shields.io/badge/Java-black?logo=eclipseide)
-- ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=CSharp)
-- ![Dotnet](https://img.shields.io/badge/-Dotnet-black?style=flat-square&logo=Dotnet)
-- ![ASP](https://img.shields.io/badge/ASP.NET-black?logo=dotnet)
-- ![Blazor](https://img.shields.io/badge/Blazor-black?logo=blazor)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)
 - ![ChatGPT](https://img.shields.io/badge/ChatGPT-black?logo=openai)
+- ![Express](https://img.shields.io/badge/ExpressJS-black?logo=express&logoColor=White)
+- ![Fimga](https://img.shields.io/badge/Figma-black?logo=figma)
+- ![Handlebars](https://img.shields.io/badge/HandlebarsJS-black?logo=handlebarsdotjs&logoColor=orange)
+- ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=Tailwindcss&logoColor=lightblue)
+
 
 
 :octocat: Stats :octocat:
