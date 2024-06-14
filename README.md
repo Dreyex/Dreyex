@@ -45,6 +45,8 @@
 - ![Fimga](https://img.shields.io/badge/Figma-black?logo=figma)
 - ![Handlebars](https://img.shields.io/badge/HandlebarsJS-black?logo=handlebarsdotjs&logoColor=orange)
 - ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=Tailwindcss&logoColor=lightblue)
+- ![Gemini](https://img.shields.io/badge/GeminiAI-black?logo=googlegemini&logoColor=lightblue)
+
 
 
 
