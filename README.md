@@ -1,30 +1,4 @@
-# :rainbow_flag: :sparkles: A little introduction ^u^ :sparkles: :rainbow_flag: #
-
-:bust_in_silhouette: Personal Stats :bust_in_silhouette:
----
-- :hourglass: Age: 20
-- :triangular_ruler: Education: High-School Diploma
-- :office: Work Status: Trainee in Computer Science for Sofware Development
-- :world_map: Location: Potsdam, Germany 
-- :hamburger: Favorite food: Burger, Pizza
-- :bulb: Interests: 
-  - Cryptocurrencys :coin:
-  - Gaming: :joystick: --> Favorite Games:sparkling_heart:: Metro, Half Life, Titanfall, Scorn
-  - Coding :floppy_disk: (Especially: Web-Development)
-  - Learning :books:
-  - Music :musical_note: [My Spotify](https://open.spotify.com/user/kuw0kbogot8n5btitqvnqv1cj)
-  - Japan :shinto_shrine:
-  - Cybernetics :mechanical_arm: :mechanical_leg:
-  - Space :flying_saucer:
-  - Fantasy Stuff :space_invader:: Magic, Cyberpunk, Steampunk
-
-### Social Media ###
-[Github](https://github.com/Dreyex) | 
-[Twitter](https://twitter.com/hashtag/dreyex?src=hash&ref_src=twsrc%5Etfw) | 
-[Instagram](https://www.instagram.com/dreyex/?hl=de) | 
-[Reddit](https://www.reddit.com/user/Dreyex/) | 
-[Tellonym](https://tellonym.me/dreyex) |
-[Google Developer Program](https://g.dev/dreyex)
+ASSHOLE.
 
 
 :hammer_and_wrench: Current Projects/Goals :hammer_and_wrench:
