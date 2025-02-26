@@ -1,6 +1,3 @@
-ASSHOLE.
-
-
 :hammer_and_wrench: Current Projects/Goals :hammer_and_wrench:
 ---
 - Trying to learn JavaScript and WebDevelopment
