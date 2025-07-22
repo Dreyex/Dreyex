@@ -1,32 +1,49 @@
-:hammer_and_wrench: Current Projects/Goals :hammer_and_wrench:
----
-- Trying to learn JavaScript and WebDevelopment
-- Creating Designs and Pictures
-- Successfully complete my training
+# 👋 Hi, I'm Max Wolff (alias Dreyex)
 
-:toolbox: :gear: Software and Tools :gear: :toolbox:
----
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-- ![CSS](https://img.shields.io/badge/CSS-black?logo=css3)
-- ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)
-- ![ChatGPT](https://img.shields.io/badge/ChatGPT-black?logo=openai)
-- ![Express](https://img.shields.io/badge/ExpressJS-black?logo=express&logoColor=White)
-- ![Fimga](https://img.shields.io/badge/Figma-black?logo=figma)
-- ![Handlebars](https://img.shields.io/badge/HandlebarsJS-black?logo=handlebarsdotjs&logoColor=orange)
-- ![Tailwind](https://img.shields.io/badge/Tailwind-black?logo=Tailwindcss&logoColor=lightblue)
-- ![Gemini](https://img.shields.io/badge/GeminiAI-black?logo=googlegemini&logoColor=lightblue)
+I'm a skilled **application development specialist** based in Potsdam, Germany, working at ZIT-BB since my apprenticeship. I enjoy combining creative design with robust code, and I'm passionate about both professional and personal tech projects.
 
+## 🚀 Technologies & Tools
 
+- **Languages:** JavaScript, learning C#, Java, PHP (basics)
+- **Frameworks & Libraries:** ExpressJS, ReactJS, HandlebarsJS, TailwindCSS, NodeJS, Vite, Bun, MySQL
+- **Other Tools:** PenPot, Figma, Godot, Blender, Krita, Warp, VSCode, Git & Github (obviously)
 
+## 🎮 Interests
 
-:octocat: Stats :octocat:
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyex&show_icons=true&theme=radical&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyex&layout=donut)](https://github.com/Dreyex/github-readme-stats)
+- Game Development
+- Web Development
+- Homelab Projects, Smart Home
+- Cyberpunk, Hexagons, Design, UI/UX
+- Bio-Mechanics/Bio-Tech
+- Cats, Wolves, Dark Fantasy, Vampires, Magic, Tech
 
+## 🔥 Favorite Games
+
+- Half-Life Series
+- Crysis Series
+- Titanfall Series
+- Scorn
+- Soulsborne Games
+- Metro Series
+- Elder Scrolls Series
+
+## 📊 GitHub Stats
+
+![My Github Status Badge](https://github-readme-stats.vercel.app/api?username=Dreyex&show_icons=true&hide_title&theme=dark)  
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Dreyex&no-frame=true&theme=darkhub)
+
+## 🥳 Fun Facts
+
+- My favorite flower: **Rose**
+- My favorite colors: **Red, Black**
+- Languages: **German (native), English (fluent), learning Italian**
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/mrwolff103/)
+- [Personal Website](#) (Work in Progress)
+- Email: [mrwolff@dryx-web.de](mailto:mrwolff@dryx-web.de)
 
 <!---
 Dreyex/Dreyex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
