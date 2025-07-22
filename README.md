@@ -28,6 +28,7 @@ I'm a skilled **application development specialist** based in Potsdam, Germany, 
 - Elder Scrolls Series
 
 ## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyex&layout=compact&theme=dark)
 
 ![My Github Status Badge](https://github-readme-stats.vercel.app/api?username=Dreyex&show_icons=true&hide_title&theme=dark)  
   
