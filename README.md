@@ -43,7 +43,7 @@ I'm a skilled **application development specialist** based in Potsdam, Germany, 
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/mrwolff103/)
-- [Personal Website](#) (Work in Progress)
+- [Personal Website](#) (Work in Progress - Link doesn't redirect!)
 - Email: [mrwolff@dryx-web.de](mailto:mrwolff@dryx-web.de)
 
 <!---
