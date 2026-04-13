@@ -1,52 +1,42 @@
-# 👋 Hi, I'm Max Wolff (alias Dreyex)
+# Hey, ich bin Dreyex 👋
 
-I'm a skilled **application development specialist** based in Potsdam, Germany, working at ZIT-BB since my apprenticeship. I enjoy combining creative design with robust code, and I'm passionate about both professional and personal tech projects.
+Ich gründe gerade ein Indie-Game-Studio mit dem Ziel, Spiele zu bauen, die über das Indie-Spektrum hinausgehen. Mein Fokus liegt auf Narrative Design und Spielen, bei denen Mechaniken keine Dekoration sind, sondern Bedeutung tragen.  
+Ebenso bin ich Web-Entwickler mit Fokus auf moderne und performante Websites die im Gedächtnis bleiben.
 
-## 🚀 Technologies & Tools
+**Aktuell in Entwicklung** - Ein First-Person-Survival-Horror-Spiel über biologischen Verfall, Transhumanismus und Identitätsverlust. Kein HUD. Kein Kompass. Nur du und das, was du wirst.
 
-- **Languages:** JavaScript, learning C#, Java, PHP (basics)
-- **Frameworks & Libraries:** ExpressJS, ReactJS, HandlebarsJS, TailwindCSS, NodeJS, Vite, Bun, MySQL
-- **Other Tools:** PenPot, Figma, Godot, Blender, Krita, Warp, VSCode, Git & Github (obviously)
+---
 
-## 🎮 Interests
+## Was ich mache
 
-- Game Development
-- Web Development
-- Homelab Projects, Smart Home
-- Cyberpunk, Hexagons, Design, UI/UX
-- Bio-Mechanics/Bio-Tech
-- Cats, Wolves, Dark Fantasy, Vampires, Magic, Tech
+- 🎮 **Game & Narrative Design** — Ludonarrative Systeme, diegetische Interfaces, Horror als immersives Erlebnis
+- 🏗️ **Indie Studio Aufbau** — von der IP-Entwicklung bis zur Projektstruktur & Umsetzung
+- 💻 **Full-Stack Entwicklung** — TypeScript, Svelte, NestJS, Node.js, REST/API-Architektur
 
-## 🔥 Favorite Games
+---
 
-- Half-Life Series
-- Crysis Series
-- Titanfall Series
-- Scorn
-- Soulsborne Games
-- Metro Series
-- Elder Scrolls Series
+## Aktuell
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyex&layout=compact&theme=dark)
+- 🔨 **Eigene IP** — GDD in Entwicklung, First Prototype geplant
+- 🎓 **Game/ Narrative Design** — Fernstudium Game Design (B.A./B.Sc.) geplant
+- 🖥️ **Indie-Game-Studio** — Studio-Gründung & IP-Aufbau
+- 📄 **GDD Website** - Kozeptionierung und Umsetzung
 
-![My Github Status Badge](https://github-readme-stats.vercel.app/api?username=Dreyex&show_icons=true&hide_title&theme=dark)  
+---
+
+## Tech Stack
+
+**Frontend:** `Svelte` `TypeScript` `TailwindCSS` `Vite` `threejs` 
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=Dreyex&no-frame=true&theme=darkhub)
+**Backend:** `NestJS` `Fastify` `Node.js` `PostgreSQL` `MongoDB`  
+  
+**Tools & Infra:** `pnpm` `Docker` `GitHub` `Proxmox` `Nginx` `Markdown`
+  
+**Game Development:** `Unreal Engine 5` `Blender` `C++`  
 
-## 🥳 Fun Facts
+---
+[![blender-unrealengine-cplusplus-threedotjs-svelte-typescript-tailwindcss-vite-nestjs-fastify-nodejs-postgresql-mongodb-docker-nginx-proxmox-pnpm-figma-git-github-markdown](https://www.readmecodegen.com/api/social-icon?name=blender%2Cunrealengine%2Csvelte%2Ctailwindcss%2Cvite%2Ctypescript%2Ccplusplus%2Cnestjs%2Cnodejs%2Cpostgresql%2Cmongodb%2Cpnpm%2Cdocker%2Cnginx%2Cgithub%2Cgit%2Cfigma%2Cmarkdown%2Cthreedotjs%2Cfastify%2Cproxmox&size=64&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FDreyex)](https://github.com/Dreyex)
+  
+---
 
-- My favorite flower: **Rose**
-- My favorite colors: **Red, Black**
-- Languages: **German (native), English (fluent), learning Italian**
-
-## 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/mrwolff103/)
-- [Personal Website](#) (Work in Progress - Link doesn't redirect!)
-- Email: [mrwolff@dryx-web.de](mailto:mrwolff@dryx-web.de)
-
-<!---
-Dreyex/Dreyex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> "Horror entsteht nicht durch externe Bedrohung — sondern durch das, was du verlierst, während du überlebst."
