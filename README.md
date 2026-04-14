@@ -21,6 +21,7 @@ Ebenso bin ich Web-Entwickler mit Fokus auf moderne und performante Websites die
 - 🎓 **Game/ Narrative Design** — Fernstudium Game Design (B.A./B.Sc.) geplant
 - 🖥️ **Indie-Game-Studio** — Studio-Gründung & IP-Aufbau
 - 📄 **GDD Website** - Kozeptionierung und Umsetzung
+- 🧠 **AsciiDoc Knowledge Management** - Planung und Spezifizieren
 
 ---
 
