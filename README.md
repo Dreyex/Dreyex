@@ -29,14 +29,14 @@ Ebenso bin ich Web-Entwickler mit Fokus auf moderne und performante Websites die
 
 **Frontend:** `Svelte` `TypeScript` `TailwindCSS` `Vite` `threejs` 
   
-**Backend:** `NestJS` `Fastify` `Node.js` `PostgreSQL` `MongoDB`  
+**Backend:** `NestJS` `Fastify` `Node.js` `PostgreSQL` `MongoDB` `Rust`
   
 **Tools & Infra:** `pnpm` `Docker` `GitHub` `Proxmox` `Nginx` `Markdown`
   
 **Game Development:** `Unreal Engine 5` `Blender` `C++`  
 
 ---
-[![blender-unrealengine-cplusplus-threedotjs-svelte-typescript-tailwindcss-vite-nestjs-fastify-nodejs-postgresql-mongodb-docker-nginx-proxmox-pnpm-figma-git-github-markdown](https://www.readmecodegen.com/api/social-icon?name=blender%2Cunrealengine%2Csvelte%2Ctailwindcss%2Cvite%2Ctypescript%2Ccplusplus%2Cnestjs%2Cnodejs%2Cpostgresql%2Cmongodb%2Cpnpm%2Cdocker%2Cnginx%2Cgithub%2Cgit%2Cfigma%2Cmarkdown%2Cthreedotjs%2Cfastify%2Cproxmox&size=64&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FDreyex)](https://github.com/Dreyex)
+[![blender-unrealengine-cplusplus-rust-threedotjs-svelte-typescript-tailwindcss-vite-nestjs-fastify-nodejs-postgresql-mongodb-docker-pnpm-figma-git-github-markdown-asciidoctor](https://www.readmecodegen.com/api/social-icon?name=blender%2Cunrealengine%2Ccplusplus%2Crust%2Cthreedotjs%2Csvelte%2Ctypescript%2Ctailwindcss%2Cvite%2Cnestjs%2Cfastify%2Cnodejs%2Cpostgresql%2Cmongodb%2Cdocker%2Cpnpm%2Cfigma%2Cgit%2Cgithub%2Cmarkdown%2Casciidoctor&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FDreyex)](https://github.com/Dreyex)
   
 ---
 
