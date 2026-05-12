@@ -27,16 +27,19 @@ Ebenso bin ich Web-Entwickler mit Fokus auf moderne und performante Websites die
 
 ## Tech Stack
 
-**Frontend:** `Svelte` `TypeScript` `TailwindCSS` `Vite` `threejs` 
-  
-**Backend:** `NestJS` `Fastify` `Node.js` `PostgreSQL` `MongoDB` `Rust`
-  
-**Tools & Infra:** `pnpm` `Docker` `GitHub` `Proxmox` `Nginx` `Markdown`
-  
-**Game Development:** `Unreal Engine 5` `Blender` `C++`  
-
+- **Languages:** TypeScript/JavaScript, C++  
+- **Frontend:** Svelte, TailwindCSS, ThreeJS  
+- **Backend:** NestJS, Fastify, NodeJs, pnpm  
+- **Mobile:** Capacitor  
+- **Database:** PostGreSQL, SQLite  
+- **Tooling:** Git, Docker, JetBrains IDEs/VSCodium, Strato  
+#  
+- **Game Dev:** Unreal Engine, Blender, Steam
+#  
+- **Design & Docs:** PenPot/Figma, Lucide Icons, AsciiDoc, Obsidian
+ 
 ---
-[![blender-unrealengine-cplusplus-rust-threedotjs-svelte-typescript-tailwindcss-vite-nestjs-fastify-nodejs-postgresql-mongodb-docker-pnpm-figma-git-github-markdown-asciidoctor](https://www.readmecodegen.com/api/social-icon?name=blender%2Cunrealengine%2Ccplusplus%2Crust%2Cthreedotjs%2Csvelte%2Ctypescript%2Ctailwindcss%2Cvite%2Cnestjs%2Cfastify%2Cnodejs%2Cpostgresql%2Cmongodb%2Cdocker%2Cpnpm%2Cfigma%2Cgit%2Cgithub%2Cmarkdown%2Casciidoctor&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FDreyex)](https://github.com/Dreyex)
+[![typescript-javascript-cplusplus-svelte-tailwindcss-threedotjs-capacitor-nestjs-fastify-pnpm-nodejs-postgresql-sqlite-git-docker-jetbrains-vscodium-unrealengine-blender-steam-penpot-lucide-asciidoctor-obsidian](https://www.readmecodegen.com/api/social-icon?name=typescript%2Cjavascript%2Ccplusplus%2Csvelte%2Ctailwindcss%2Cthreedotjs%2Ccapacitor%2Cnestjs%2Cfastify%2Cpnpm%2Cnodejs%2Cpostgresql%2Csqlite%2Cgit%2Cdocker%2Cjetbrains%2Cvscodium%2Cunrealengine%2Cblender%2Csteam%2Cpenpot%2Clucide%2Casciidoctor%2Cobsidian&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FDreyex)](https://github.com/Dreyex)
   
 ---
 
