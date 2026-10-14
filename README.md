@@ -11,7 +11,7 @@ Ebenso bin ich Web-Entwickler mit Fokus auf moderne und performante Websites die
 
 - 🎮 **Game & Narrative Design** — Ludonarrative Systeme, diegetische Interfaces, Horror als immersives Erlebnis
 - 🏗️ **Indie Studio Aufbau** — von der IP-Entwicklung bis zur Projektstruktur & Umsetzung
-- 💻 **Full-Stack Entwicklung** — TypeScript, Svelte, NestJS, Node.js, REST/API-Architektur
+- 💻 **Full-Stack Entwicklung** — TypeScript, Svelte, NestJS, Node.js, REST/API-Architektur, C++
 
 ---
 
